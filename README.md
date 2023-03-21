@@ -1,8 +1,8 @@
 # Python_Tarot_Reading
 
 ## Overview
-Tarot card reading in google colab using python.
-If downloaded make sure to change the "dir" variable to be suitable with your directory.
+Tarot card reading in google collab using python.
+If downloaded make sure to change the "dir" variable to be suitable for your directory.
 
 ## Functions available
 - playDefault: 3 card spread with only upwards facing cards. Will tell a more detailed fortune.
